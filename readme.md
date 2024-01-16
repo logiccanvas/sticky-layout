@@ -15,3 +15,5 @@ The sticky layout, with a bar stuck at the bottom, wasn't working as intended on
 **How It Works:**
 Our solution involves refining the HTML and CSS code to overcome the specific challenges posed by iOS. We've tested and validated the fix to ensure it seamlessly integrates with your project.
 
+**Demo**
+[Sticky Layout](https://sticky-layout.netlify.app)
